@@ -1,0 +1,17 @@
+.navbar{
+    background-color: #323334;
+}
+body{
+    background-color: #323334;
+    color: white;
+    min-height: 100vh;
+}
+
+.search{
+   
+    display: flex;
+}
+
+.button{
+    background-color: red;
+}
